@@ -12,3 +12,12 @@ img,
 video {
   display: block;
 }
+
+.like {
+  display: flex;
+  padding: 10px 20px;
+  align-items: center;
+  gap: 10px;
+  border-radius: 19px;
+  border: 2px solid #f00;
+}
